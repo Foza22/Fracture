@@ -1,0 +1,52 @@
+{
+	"details": [
+		{
+			"name": "BP_BaseActorWithID_2",
+			"uniqueId": 23724
+		},
+		{
+			"name": "BP_BaseActorWithID3_7",
+			"uniqueId": 31848
+		},
+		{
+			"name": "BP_BaseActorWithID4_11",
+			"uniqueId": 21765
+		},
+		{
+			"name": "BP_BaseActorWithID6",
+			"uniqueId": 15388
+		},
+		{
+			"name": "BP_BaseActorWithID7",
+			"uniqueId": 22190
+		},
+		{
+			"name": "BP_BaseActorWithID9",
+			"uniqueId": 8613
+		},
+		{
+			"name": "BP_BaseActorWithID10",
+			"uniqueId": 30499
+		},
+		{
+			"name": "BP_BaseActorWithID12",
+			"uniqueId": 3651
+		},
+		{
+			"name": "BP_BaseActorWithID13",
+			"uniqueId": 25693
+		},
+		{
+			"name": "BP_BaseActorWithID15",
+			"uniqueId": 31202
+		},
+		{
+			"name": "BP_BaseActorWithID16",
+			"uniqueId": 18135
+		},
+		{
+			"name": "BP_BaseActorWithID18",
+			"uniqueId": 7255
+		}
+	]
+}
